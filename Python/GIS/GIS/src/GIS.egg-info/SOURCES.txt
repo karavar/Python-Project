@@ -1,0 +1,6 @@
+setup.py
+GIS.egg-info/PKG-INFO
+GIS.egg-info/SOURCES.txt
+GIS.egg-info/dependency_links.txt
+GIS.egg-info/requires.txt
+GIS.egg-info/top_level.txt
